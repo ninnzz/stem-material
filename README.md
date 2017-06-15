@@ -48,7 +48,6 @@ You need to run your program on a compiler if you want to install it locally, yo
 > If you are having a troubles or you need help on anything, USE SLACK to ask me questions related to "programming". 
 
 #### Create account in Arduino.cc and Circuits.io
-**Create your account to access the examples and tutorials.**
 
 #####  [arduino.cc](https://www.arduino.cc/)
 Here you can find several tutorials and information about arduino and how it works.
@@ -74,4 +73,11 @@ Before diving in deep, make sure you have atleast read the C tutorials above.
 Here are the key concepts you need to learn.
 - Variables
 - Functions
+- Operations
+	- Arithmetic operations
+	- Conditions
 - Control structures
+	- IF statements
+	- For Loops, While loops, etc
+
+-- Will update --
